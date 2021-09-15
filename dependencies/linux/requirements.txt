@@ -1,0 +1,9 @@
+numpy
+opencv-python
+tensorflow
+keras
+pillow
+scikit-plot
+autopep8
+seaborn
+sklearn
